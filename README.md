@@ -38,7 +38,7 @@ THEN I am asked to choose an employee to update with their new role and this new
 
 The following video is a walk through video of how this Employee Tracker work:
 
-[![This is the link to my walk through video.](https://youtu.be/2a1XuN7wyO8)
+[This is the link to my walk through video.](https://youtu.be/2a1XuN7wyO8)
 
 [![This is the link to image after I did finish all the steps in the Terminal.](./Assets/Employess-Tracker%20.png)
 
